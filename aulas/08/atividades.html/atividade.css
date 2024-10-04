@@ -1,0 +1,51 @@
+header{
+    background-color: black;
+    color: white;
+    padding-bottom: 20px 5px 20px;
+    text-align: center;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+/* estilos para o conteúdo principal */
+main{
+    margin: 15px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+section{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}
+
+/*estilos para o conteúdo complementar (aside) */
+aside{
+    background-color: #e9ecef;
+    padding: 20px;
+    border-left: 5px solid #333;
+}
+
+/* estilos para o rodapé */
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    position: fixed;
+    padding: 1px;
+    width: 100%;
+    bottom: 0;
+
+}
+
